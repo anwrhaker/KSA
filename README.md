@@ -1,5 +1,3 @@
-# KSA
-A new clone of Facebook Arab countries without a checkpoint
 <h1 align="center">KSA</h1>
 <p align="center">Crack random Facebook accounts without a login for the Kingdom of Saudi Arabia</p>
 
