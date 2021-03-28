@@ -1,2 +1,65 @@
 # KSA
-Crack random Facebook accounts without a login for the Kingdom of Saudi Arabia
+A new clone of Facebook Arab countries without a checkpoint
+<h1 align="center">KSA</h1>
+<p align="center">Crack random Facebook accounts without a login for the Kingdom of Saudi Arabia</p>
+
+
+
+
+## Installation :
+```
+using in the Termux ↓↓↓
+
+$ apt update
+
+$ apt upgrade -y
+
+$ pkg install python
+
+$ pkg install python2 -y
+
+$ pkg install git
+
+$ pkg install zip
+
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$ git clone https://github.com/SidraELEzz/KSA
+
+$ ls 
+
+$ cd KSA
+
+$ ls
+
+$ unzip KSA.zip
+
+$ ls
+
+$ cd KSA
+
+$ cd KSA
+
+$ ls
+
+$ python KSA.py
+
+```
+
+## ***Tool key***
+* Telegram : [Follow Me](https://t.me/TT_RQ)
+
+
+## ***Follow Me***
+* Telegram : [Follow Me](https://t.me/TT_RQ)
+* Youtube. : [Follow Me](https://youtube.com/c/SidraTermux)
+
+### Warning
+
+
+***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible
+ in such cases🖊Written by Sidra ELEzz.***
+
+
