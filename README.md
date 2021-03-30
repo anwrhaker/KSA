@@ -24,7 +24,7 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/SidraELEzz/KSA
+$ git clone https://github.com/APless/KSA
 
 $ ls 
 
@@ -46,18 +46,8 @@ $ python KSA.py
 
 ```
 
-## ***Tool key***
-* Telegram : [Follow Me](https://t.me/TT_RQ)
+## ***Tool key**
 
 
-## ***Follow Me***
-* Telegram : [Follow Me](https://t.me/TT_RQ)
-* Youtube. : [Follow Me](https://youtube.com/c/SidraTermux)
-
-### Warning
-
-
-***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible
- in such cases🖊Written by Sidra ELEzz.***
 
 
