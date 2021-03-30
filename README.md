@@ -24,40 +24,40 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/SidraELEzz/KSA
+$ git clone https://github.com/anwrPLESS/IRAQ
 
 $ ls 
 
-$ cd KSA
+$ cd IRAQ
 
 $ ls
 
-$ unzip KSA.zip
+$ unzip IRAQ.zip
 
 $ ls
 
-$ cd KSA
+$ cd IRAQ
 
-$ cd KSA
+$ cd IRAQ
 
 $ ls
 
-$ python KSA.py
+$ python IRAQ.py
 
 ```
 
 ## ***Tool key***
-* Telegram : [Follow Me](https://t.me/TT_RQ)
+* Telegram : [Follow Me](https://t.me/bbb9bb9)
 
 
 ## ***Follow Me***
-* Telegram : [Follow Me](https://t.me/TT_RQ)
-* Youtube. : [Follow Me](https://youtube.com/c/SidraTermux)
+* Telegram : [Follow Me](https://t.me/bbb9bb9)
+* Youtube. : [Follow Me](https://youtube.com/c/anwr termux)
 
 ### Warning
 
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible
- in such cases🖊Written by Sidra ELEzz.***
+ in such cases🖊Written by anwr.***
 
 
